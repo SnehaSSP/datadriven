@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import pytest
-
+import math
 """
 chrome_binary_path = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
 
